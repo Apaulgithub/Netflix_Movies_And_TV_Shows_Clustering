@@ -1,6 +1,6 @@
 # Netflix Movies And TV Shows Clustering - Unsupervised ML
 
-**AlmaBetter Verified Project** - [**Credentials**]
+**AlmaBetter Verified Project** - [**Credentials**](https://certificates.almabetter.com/en/verify/84172751271877)
 
 ![MasterHead](https://www.flashfly.net/wp/wp-content/uploads/2022/08/Netflix.jpeg)
 
